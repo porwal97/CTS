@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ESP32_T2")(type "KiCad")(uri "/Users/priyanshiporwal/Documents/UCB Courses/Spring 2022/PCB design /kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+)
